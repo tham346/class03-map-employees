@@ -1,0 +1,23 @@
+[
+    {
+        "employeeID":"7986567",
+        "name":"Narumi Momose", 
+        "department":"Web Design", 
+        "position":"Assistant",
+        "email":"narumimomose2gmail.com"
+    },  
+    {
+        "employeeID":"6391462",
+        "name":"Hirotaka Nifuji", 
+        "department":"Branding", 
+        "position": "Executive ",
+        "email":"hirotakanifugi@gmail.com"
+    },
+    {
+        "employeeID":"3497107",
+        "name":"Tarō Kabakura", 
+        "department":"App Development", 
+        "position":"Manager",
+        "email":"tarōkabakura@gmail.com" 
+    }
+]

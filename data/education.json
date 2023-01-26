@@ -1,0 +1,23 @@
+[
+        {
+            "studentNumber": "A0005300",
+            "firstName": "Hirotaka",
+            "gpa": 3.8,
+            "department": "Business",
+            "degree": "Digital Brands and Consumers Degree"
+        },
+        {
+            "studentNumber": "A0009621",
+            "firstName": "Narumi Momose",
+            "gpa": 3.5,
+            "department": "Business",
+            "degree": "Digital Design and Development Diploma" 
+        },
+        {
+            "studentNumber": "A000966",
+            "firstName": "Tarō Kabakura",
+            "gpa": 3.9,
+            "department": "Computing",
+            "degree": "UX/UI Degree"
+        }
+]
